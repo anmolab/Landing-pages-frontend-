@@ -1,0 +1,4 @@
+1) mouse follower effect
+2) text masking with an image 
+3) css tricks website to learn
+$) learning gsap
